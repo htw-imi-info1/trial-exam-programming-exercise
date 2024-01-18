@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=ShoppingList
+comment0.text=\n\ The\ ShoppingList\ should\ hold\ a\ Collection\n\ of\ Items.\ Your\ task\ is\ to\ implement\ the\ \n\ getList\ method.\ \ \n\ \n\ @author\ Barne\ Kleinen\n
+comment1.params=
+comment1.target=ShoppingList()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ ShoppingList\n
+comment2.params=item
+comment2.target=void\ add(Item)
+comment3.params=
+comment3.target=java.lang.String\ getList()
+comment3.text=\n\ Your\ task\ is\ to\ implement\ this\ method.\n\ It\ should\ return\ a\ String\ containing\ all\n\ names\ of\ the\ items\ added\ to\ the\ ShoppingList,\ \n\ separated\ by\ a\ newline.\n\ \n\ @return\ \ \ \ \ a\ String\ containing\ all\ items\ on\ the\ list\ separated\ by\ \n\ \ \ \ \ \ \ \ \ \ \ \ \ newline\ ("\\n")\n
+numComments=4
