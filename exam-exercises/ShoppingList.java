@@ -29,8 +29,9 @@ public class ShoppingList
     /**
      * Your task is to implement this method.
      * It should return a String containing all
-     * names of the items added to the ShoppingList, 
+     * amounts followed by a space followed by the names of the items added to the ShoppingList, 
      * separated by a newline.
+     * Example: 2 Eggs\n1 Milk\n3 Bread\n
      * 
      * @return     a String containing all items on the list separated by 
      *             newline ("\n")
